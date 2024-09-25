@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,MACE,WAEF,CAEA,cAHE,cAKF","file":"main.899b7341.chunk.css","sourcesContent":[".root {\r\n  margin: 60px;\r\n  font-size: 40px;\r\n}\r\n\r\n.button {\r\n  font-size: 40px;\r\n}\r\n"]}
